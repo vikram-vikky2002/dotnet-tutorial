@@ -1,0 +1,14 @@
+E:\Works\NexTurn\.NET\Offline Class\DemoApp\DemoConsoleApp\bin\Debug\net8.0\DemoConsoleApp.exe
+E:\Works\NexTurn\.NET\Offline Class\DemoApp\DemoConsoleApp\bin\Debug\net8.0\DemoConsoleApp.deps.json
+E:\Works\NexTurn\.NET\Offline Class\DemoApp\DemoConsoleApp\bin\Debug\net8.0\DemoConsoleApp.runtimeconfig.json
+E:\Works\NexTurn\.NET\Offline Class\DemoApp\DemoConsoleApp\bin\Debug\net8.0\DemoConsoleApp.dll
+E:\Works\NexTurn\.NET\Offline Class\DemoApp\DemoConsoleApp\bin\Debug\net8.0\DemoConsoleApp.pdb
+E:\Works\NexTurn\.NET\Offline Class\DemoApp\DemoConsoleApp\obj\Debug\net8.0\DemoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\NexTurn\.NET\Offline Class\DemoApp\DemoConsoleApp\obj\Debug\net8.0\DemoConsoleApp.AssemblyInfoInputs.cache
+E:\Works\NexTurn\.NET\Offline Class\DemoApp\DemoConsoleApp\obj\Debug\net8.0\DemoConsoleApp.AssemblyInfo.cs
+E:\Works\NexTurn\.NET\Offline Class\DemoApp\DemoConsoleApp\obj\Debug\net8.0\DemoConsoleApp.csproj.CoreCompileInputs.cache
+E:\Works\NexTurn\.NET\Offline Class\DemoApp\DemoConsoleApp\obj\Debug\net8.0\DemoConsoleApp.dll
+E:\Works\NexTurn\.NET\Offline Class\DemoApp\DemoConsoleApp\obj\Debug\net8.0\refint\DemoConsoleApp.dll
+E:\Works\NexTurn\.NET\Offline Class\DemoApp\DemoConsoleApp\obj\Debug\net8.0\DemoConsoleApp.pdb
+E:\Works\NexTurn\.NET\Offline Class\DemoApp\DemoConsoleApp\obj\Debug\net8.0\DemoConsoleApp.genruntimeconfig.cache
+E:\Works\NexTurn\.NET\Offline Class\DemoApp\DemoConsoleApp\obj\Debug\net8.0\ref\DemoConsoleApp.dll

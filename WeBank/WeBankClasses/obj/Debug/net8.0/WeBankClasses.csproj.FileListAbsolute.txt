@@ -1,0 +1,11 @@
+E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\bin\Debug\net8.0\WeBankClasses.deps.json
+E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\bin\Debug\net8.0\WeBankClasses.dll
+E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\bin\Debug\net8.0\WeBankClasses.pdb
+E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\obj\Debug\net8.0\WeBankClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\obj\Debug\net8.0\WeBankClasses.AssemblyInfoInputs.cache
+E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\obj\Debug\net8.0\WeBankClasses.AssemblyInfo.cs
+E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\obj\Debug\net8.0\WeBankClasses.csproj.CoreCompileInputs.cache
+E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\obj\Debug\net8.0\WeBankClasses.dll
+E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\obj\Debug\net8.0\refint\WeBankClasses.dll
+E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\obj\Debug\net8.0\WeBankClasses.pdb
+E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\obj\Debug\net8.0\ref\WeBankClasses.dll
