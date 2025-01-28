@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "ClassLibrary/1.0.0": {
+      "GetWellAppClasses/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/ClassLibrary.dll": {}
+          "bin/placeholder/GetWellAppClasses.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ClassLibrary.dll": {}
+          "bin/placeholder/GetWellAppClasses.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ClassLibrary/1.0.0": {
+    "GetWellAppClasses/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary/ClassLibrary.csproj",
-      "msbuildProject": "../ClassLibrary/ClassLibrary.csproj"
+      "path": "../ClassLibrary/GetWellAppClasses.csproj",
+      "msbuildProject": "../ClassLibrary/GetWellAppClasses.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "ClassLibrary >= 1.0.0"
+      "GetWellAppClasses >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ConsoleApp\\ConsoleApp.csproj",
-      "projectName": "ConsoleApp",
-      "projectPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ConsoleApp\\GetWellAppConsoleApp.csproj",
+      "projectName": "GetWellAppConsoleApp",
+      "projectPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ConsoleApp\\GetWellAppConsoleApp.csproj",
       "packagesPath": "C:\\Users\\mamun\\.nuget\\packages\\",
       "outputPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ClassLibrary\\ClassLibrary.csproj": {
-              "projectPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ClassLibrary\\ClassLibrary.csproj"
+            "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ClassLibrary\\GetWellAppClasses.csproj": {
+              "projectPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ClassLibrary\\GetWellAppClasses.csproj"
             }
           }
         }

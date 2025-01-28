@@ -16,10 +16,6 @@
         {
             Balance = Balance + amount;
             Console.WriteLine("\nDeposit Successful!! New Balance : $" + Balance);
-            Transaction transaction1 = new Transaction();
-            transaction1.TransactionType = "Deposit";
-            transaction1.TransactionId = 1;
-            transaction1.Amount = 1000;
         }
 
         public void DisplayDetails()

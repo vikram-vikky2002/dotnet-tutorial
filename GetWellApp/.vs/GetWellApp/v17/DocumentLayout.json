@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22BAD356-3263-487B-9B77-40C871058E08}|ConsoleApp\\ConsoleApp.csproj|e:\\works\\nexturn\\.net\\offline class\\getwellapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BAD356-3263-487B-9B77-40C871058E08}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F4679A6-85C1-4711-9E51-BC399B298ADE}|ClassLibrary\\ClassLibrary.csproj|e:\\works\\nexturn\\.net\\offline class\\getwellapp\\classlibrary\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F4679A6-85C1-4711-9E51-BC399B298ADE}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F4679A6-85C1-4711-9E51-BC399B298ADE}|ClassLibrary\\ClassLibrary.csproj|e:\\works\\nexturn\\.net\\offline class\\getwellapp\\classlibrary\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F4679A6-85C1-4711-9E51-BC399B298ADE}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22BAD356-3263-487B-9B77-40C871058E08}|ConsoleApp\\ConsoleApp.csproj|e:\\works\\nexturn\\.net\\offline class\\getwellapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22BAD356-3263-487B-9B77-40C871058E08}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Patient.cs",
               "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ClassLibrary\\Patient.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Patient.cs",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Doctor.cs",
               "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ClassLibrary\\Doctor.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Doctor.cs",
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
               "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T10:10:31.426Z",
               "EditorCaption": ""

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ClassLibrary\\ClassLibrary.csproj",
-      "projectName": "ClassLibrary",
-      "projectPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ClassLibrary\\ClassLibrary.csproj",
+      "projectUniqueName": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ClassLibrary\\GetWellAppClasses.csproj",
+      "projectName": "GetWellAppClasses",
+      "projectPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ClassLibrary\\GetWellAppClasses.csproj",
       "packagesPath": "C:\\Users\\mamun\\.nuget\\packages\\",
       "outputPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\GetWellApp\\ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",

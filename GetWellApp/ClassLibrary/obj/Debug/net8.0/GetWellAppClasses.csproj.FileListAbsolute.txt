@@ -1,0 +1,12 @@
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\bin\Debug\net8.0\GetWellAppClasses.deps.json
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\bin\Debug\net8.0\GetWellAppClasses.dll
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\bin\Debug\net8.0\GetWellAppClasses.pdb
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\GetWellAppClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\GetWellAppClasses.AssemblyInfoInputs.cache
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\GetWellAppClasses.AssemblyInfo.cs
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\GetWellAppClasses.csproj.CoreCompileInputs.cache
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\GetWellAppClasses.sourcelink.json
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\GetWellAppClasses.dll
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\refint\GetWellAppClasses.dll
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\GetWellAppClasses.pdb
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\ref\GetWellAppClasses.dll

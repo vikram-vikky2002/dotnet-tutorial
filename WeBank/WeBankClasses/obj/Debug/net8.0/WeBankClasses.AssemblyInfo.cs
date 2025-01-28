@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeBankClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1aabc6a07f66f3fd0cce78d5b6dbb9b1f458554b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeBankClasses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeBankClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

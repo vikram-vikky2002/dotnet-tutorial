@@ -9,3 +9,4 @@ E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\obj\Debug\net8.0\WeBank
 E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\obj\Debug\net8.0\refint\WeBankClasses.dll
 E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\obj\Debug\net8.0\WeBankClasses.pdb
 E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\obj\Debug\net8.0\ref\WeBankClasses.dll
+E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankClasses\obj\Debug\net8.0\WeBankClasses.sourcelink.json

@@ -16,3 +16,4 @@ E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankApp\obj\Debug\net8.0\refint\WeB
 E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankApp\obj\Debug\net8.0\WeBankApp.pdb
 E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankApp\obj\Debug\net8.0\WeBankApp.genruntimeconfig.cache
 E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankApp\obj\Debug\net8.0\ref\WeBankApp.dll
+E:\Works\NexTurn\.NET\Offline Class\WeBank\WeBankApp\obj\Debug\net8.0\WeBankApp.sourcelink.json
