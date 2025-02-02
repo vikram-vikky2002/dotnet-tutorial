@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Works\\NexTurn\\.NET\\Day2\\A2ZsalesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43935AD8-6FC7-481E-B26B-ECDE49EDCEAE}|A2ZsalesBusinessLayer\\A2ZsalesBusinessLayer.csproj|e:\\works\\nexturn\\.net\\day2\\a2zsalesapp\\a2zsalesbusinesslayer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43935AD8-6FC7-481E-B26B-ECDE49EDCEAE}|A2ZsalesBusinessLayer\\A2ZsalesBusinessLayer.csproj|solutionrelative:a2zsalesbusinesslayer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43935AD8-6FC7-481E-B26B-ECDE49EDCEAE}|A2ZsalesBusinessLayer\\A2ZsalesBusinessLayer.csproj|e:\\works\\nexturn\\.net\\day2\\a2zsalesapp\\a2zsalesbusinesslayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43935AD8-6FC7-481E-B26B-ECDE49EDCEAE}|A2ZsalesBusinessLayer\\A2ZsalesBusinessLayer.csproj|solutionrelative:a2zsalesbusinesslayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16385829-2B62-4BB5-A60A-33AA0ACBC4DC}|A2ZsalesConsoleApp\\A2ZsalesConsoleApp.csproj|e:\\works\\nexturn\\.net\\day2\\a2zsalesapp\\a2zsalesconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16385829-2B62-4BB5-A60A-33AA0ACBC4DC}|A2ZsalesConsoleApp\\A2ZsalesConsoleApp.csproj|solutionrelative:a2zsalesconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day2\\A2ZsalesApp\\A2ZsalesBusinessLayer\\Customer.cs",
+              "RelativeDocumentMoniker": "A2ZsalesBusinessLayer\\Customer.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day2\\A2ZsalesApp\\A2ZsalesBusinessLayer\\Customer.cs",
+              "RelativeToolTip": "A2ZsalesBusinessLayer\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:13:55.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day2\\A2ZsalesApp\\A2ZsalesBusinessLayer\\Product.cs",
+              "RelativeDocumentMoniker": "A2ZsalesBusinessLayer\\Product.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day2\\A2ZsalesApp\\A2ZsalesBusinessLayer\\Product.cs",
+              "RelativeToolTip": "A2ZsalesBusinessLayer\\Product.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:54:43.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day2\\A2ZsalesApp\\A2ZsalesConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "A2ZsalesConsoleApp\\Program.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day2\\A2ZsalesApp\\A2ZsalesConsoleApp\\Program.cs",
+              "RelativeToolTip": "A2ZsalesConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:52:47.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

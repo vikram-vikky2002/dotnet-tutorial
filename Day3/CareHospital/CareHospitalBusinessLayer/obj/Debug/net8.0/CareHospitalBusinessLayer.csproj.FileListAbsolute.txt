@@ -1,0 +1,11 @@
+E:\Works\NexTurn\.NET\Day3\CareHospital\CareHospitalBusinessLayer\bin\Debug\net8.0\CareHospitalBusinessLayer.deps.json
+E:\Works\NexTurn\.NET\Day3\CareHospital\CareHospitalBusinessLayer\bin\Debug\net8.0\CareHospitalBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day3\CareHospital\CareHospitalBusinessLayer\bin\Debug\net8.0\CareHospitalBusinessLayer.pdb
+E:\Works\NexTurn\.NET\Day3\CareHospital\CareHospitalBusinessLayer\obj\Debug\net8.0\CareHospitalBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\NexTurn\.NET\Day3\CareHospital\CareHospitalBusinessLayer\obj\Debug\net8.0\CareHospitalBusinessLayer.AssemblyInfoInputs.cache
+E:\Works\NexTurn\.NET\Day3\CareHospital\CareHospitalBusinessLayer\obj\Debug\net8.0\CareHospitalBusinessLayer.AssemblyInfo.cs
+E:\Works\NexTurn\.NET\Day3\CareHospital\CareHospitalBusinessLayer\obj\Debug\net8.0\CareHospitalBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Works\NexTurn\.NET\Day3\CareHospital\CareHospitalBusinessLayer\obj\Debug\net8.0\CareHospitalBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day3\CareHospital\CareHospitalBusinessLayer\obj\Debug\net8.0\refint\CareHospitalBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day3\CareHospital\CareHospitalBusinessLayer\obj\Debug\net8.0\CareHospitalBusinessLayer.pdb
+E:\Works\NexTurn\.NET\Day3\CareHospital\CareHospitalBusinessLayer\obj\Debug\net8.0\ref\CareHospitalBusinessLayer.dll

@@ -1,0 +1,11 @@
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+E:\Works\NexTurn\.NET\Offline Class\GetWellApp\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll

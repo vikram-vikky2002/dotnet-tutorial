@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2ZSalesConsoleApp", "A2ZSalesConsoleApp\A2ZSalesConsoleApp.csproj", "{176C1A41-44FE-4A39-830B-CB681661E388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2ZSalesBusinessLayer", "A2ZSalesBusinessLayer\A2ZSalesBusinessLayer.csproj", "{A69C5834-C2D8-4E23-9291-2D5B83EBA98C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176C1A41-44FE-4A39-830B-CB681661E388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176C1A41-44FE-4A39-830B-CB681661E388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176C1A41-44FE-4A39-830B-CB681661E388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176C1A41-44FE-4A39-830B-CB681661E388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69C5834-C2D8-4E23-9291-2D5B83EBA98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69C5834-C2D8-4E23-9291-2D5B83EBA98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69C5834-C2D8-4E23-9291-2D5B83EBA98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69C5834-C2D8-4E23-9291-2D5B83EBA98C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

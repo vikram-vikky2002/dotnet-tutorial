@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GetWellAppConsoleApp/1.0.0": {
+        "dependencies": {
+          "GetWellAppBusinessLayer": "1.0.0"
+        },
+        "runtime": {
+          "GetWellAppConsoleApp.dll": {}
+        }
+      },
+      "GetWellAppBusinessLayer/1.0.0": {
+        "runtime": {
+          "GetWellAppBusinessLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GetWellAppConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GetWellAppBusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

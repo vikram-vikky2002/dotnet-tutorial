@@ -1,0 +1,11 @@
+E:\Works\NexTurn\.NET\Day2\QuickKart\QuickKartBusinessLayer\bin\Debug\net8.0\QuickKartBusinessLayer.deps.json
+E:\Works\NexTurn\.NET\Day2\QuickKart\QuickKartBusinessLayer\bin\Debug\net8.0\QuickKartBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day2\QuickKart\QuickKartBusinessLayer\bin\Debug\net8.0\QuickKartBusinessLayer.pdb
+E:\Works\NexTurn\.NET\Day2\QuickKart\QuickKartBusinessLayer\obj\Debug\net8.0\QuickKartBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\NexTurn\.NET\Day2\QuickKart\QuickKartBusinessLayer\obj\Debug\net8.0\QuickKartBusinessLayer.AssemblyInfoInputs.cache
+E:\Works\NexTurn\.NET\Day2\QuickKart\QuickKartBusinessLayer\obj\Debug\net8.0\QuickKartBusinessLayer.AssemblyInfo.cs
+E:\Works\NexTurn\.NET\Day2\QuickKart\QuickKartBusinessLayer\obj\Debug\net8.0\QuickKartBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Works\NexTurn\.NET\Day2\QuickKart\QuickKartBusinessLayer\obj\Debug\net8.0\QuickKartBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day2\QuickKart\QuickKartBusinessLayer\obj\Debug\net8.0\refint\QuickKartBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day2\QuickKart\QuickKartBusinessLayer\obj\Debug\net8.0\QuickKartBusinessLayer.pdb
+E:\Works\NexTurn\.NET\Day2\QuickKart\QuickKartBusinessLayer\obj\Debug\net8.0\ref\QuickKartBusinessLayer.dll

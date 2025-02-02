@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Works\\NexTurn\\.NET\\Day3\\GetWellApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9A1EA1-FBE7-4E78-BFE6-F062BE6F983C}|GetWellAppBusinessLayer\\GetWellAppBusinessLayer.csproj|e:\\works\\nexturn\\.net\\day3\\getwellapp\\getwellappbusinesslayer\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9A1EA1-FBE7-4E78-BFE6-F062BE6F983C}|GetWellAppBusinessLayer\\GetWellAppBusinessLayer.csproj|solutionrelative:getwellappbusinesslayer\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9A1EA1-FBE7-4E78-BFE6-F062BE6F983C}|GetWellAppBusinessLayer\\GetWellAppBusinessLayer.csproj|e:\\works\\nexturn\\.net\\day3\\getwellapp\\getwellappbusinesslayer\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9A1EA1-FBE7-4E78-BFE6-F062BE6F983C}|GetWellAppBusinessLayer\\GetWellAppBusinessLayer.csproj|solutionrelative:getwellappbusinesslayer\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9A1EA1-FBE7-4E78-BFE6-F062BE6F983C}|GetWellAppBusinessLayer\\GetWellAppBusinessLayer.csproj|e:\\works\\nexturn\\.net\\day3\\getwellapp\\getwellappbusinesslayer\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9A1EA1-FBE7-4E78-BFE6-F062BE6F983C}|GetWellAppBusinessLayer\\GetWellAppBusinessLayer.csproj|solutionrelative:getwellappbusinesslayer\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9A1EA1-FBE7-4E78-BFE6-F062BE6F983C}|GetWellAppBusinessLayer\\GetWellAppBusinessLayer.csproj|e:\\works\\nexturn\\.net\\day3\\getwellapp\\getwellappbusinesslayer\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9A1EA1-FBE7-4E78-BFE6-F062BE6F983C}|GetWellAppBusinessLayer\\GetWellAppBusinessLayer.csproj|solutionrelative:getwellappbusinesslayer\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACBB382-745E-4828-A154-9AE4DA34799A}|GetWellAppConsoleApp\\GetWellAppConsoleApp.csproj|e:\\works\\nexturn\\.net\\day3\\getwellapp\\getwellappconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACBB382-745E-4828-A154-9AE4DA34799A}|GetWellAppConsoleApp\\GetWellAppConsoleApp.csproj|solutionrelative:getwellappconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day3\\GetWellApp\\GetWellAppBusinessLayer\\Hospital.cs",
+              "RelativeDocumentMoniker": "GetWellAppBusinessLayer\\Hospital.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day3\\GetWellApp\\GetWellAppBusinessLayer\\Hospital.cs",
+              "RelativeToolTip": "GetWellAppBusinessLayer\\Hospital.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T18:16:33.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day3\\GetWellApp\\GetWellAppBusinessLayer\\Appointment.cs",
+              "RelativeDocumentMoniker": "GetWellAppBusinessLayer\\Appointment.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day3\\GetWellApp\\GetWellAppBusinessLayer\\Appointment.cs",
+              "RelativeToolTip": "GetWellAppBusinessLayer\\Appointment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:41:17.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day3\\GetWellApp\\GetWellAppBusinessLayer\\Doctor.cs",
+              "RelativeDocumentMoniker": "GetWellAppBusinessLayer\\Doctor.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day3\\GetWellApp\\GetWellAppBusinessLayer\\Doctor.cs",
+              "RelativeToolTip": "GetWellAppBusinessLayer\\Doctor.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA1wBoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:34:40.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day3\\GetWellApp\\GetWellAppBusinessLayer\\Patient.cs",
+              "RelativeDocumentMoniker": "GetWellAppBusinessLayer\\Patient.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day3\\GetWellApp\\GetWellAppBusinessLayer\\Patient.cs",
+              "RelativeToolTip": "GetWellAppBusinessLayer\\Patient.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:22:09.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day3\\GetWellApp\\GetWellAppConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "GetWellAppConsoleApp\\Program.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day3\\GetWellApp\\GetWellAppConsoleApp\\Program.cs",
+              "RelativeToolTip": "GetWellAppConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA1wA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:21:45.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+E:\Works\NexTurn\.NET\Day3\OrganisationApp\OrganisationBusinessLayer\bin\Debug\net8.0\OrganisationBusinessLayer.deps.json
+E:\Works\NexTurn\.NET\Day3\OrganisationApp\OrganisationBusinessLayer\bin\Debug\net8.0\OrganisationBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day3\OrganisationApp\OrganisationBusinessLayer\bin\Debug\net8.0\OrganisationBusinessLayer.pdb
+E:\Works\NexTurn\.NET\Day3\OrganisationApp\OrganisationBusinessLayer\obj\Debug\net8.0\OrganisationBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\NexTurn\.NET\Day3\OrganisationApp\OrganisationBusinessLayer\obj\Debug\net8.0\OrganisationBusinessLayer.AssemblyInfoInputs.cache
+E:\Works\NexTurn\.NET\Day3\OrganisationApp\OrganisationBusinessLayer\obj\Debug\net8.0\OrganisationBusinessLayer.AssemblyInfo.cs
+E:\Works\NexTurn\.NET\Day3\OrganisationApp\OrganisationBusinessLayer\obj\Debug\net8.0\OrganisationBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Works\NexTurn\.NET\Day3\OrganisationApp\OrganisationBusinessLayer\obj\Debug\net8.0\OrganisationBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day3\OrganisationApp\OrganisationBusinessLayer\obj\Debug\net8.0\refint\OrganisationBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day3\OrganisationApp\OrganisationBusinessLayer\obj\Debug\net8.0\OrganisationBusinessLayer.pdb
+E:\Works\NexTurn\.NET\Day3\OrganisationApp\OrganisationBusinessLayer\obj\Debug\net8.0\ref\OrganisationBusinessLayer.dll

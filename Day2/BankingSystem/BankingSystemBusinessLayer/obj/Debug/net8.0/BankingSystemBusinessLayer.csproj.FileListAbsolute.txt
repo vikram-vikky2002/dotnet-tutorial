@@ -1,0 +1,11 @@
+E:\Works\NexTurn\.NET\Day2\BankingSystem\BankingSystemBusinessLayer\bin\Debug\net8.0\BankingSystemBusinessLayer.deps.json
+E:\Works\NexTurn\.NET\Day2\BankingSystem\BankingSystemBusinessLayer\bin\Debug\net8.0\BankingSystemBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day2\BankingSystem\BankingSystemBusinessLayer\bin\Debug\net8.0\BankingSystemBusinessLayer.pdb
+E:\Works\NexTurn\.NET\Day2\BankingSystem\BankingSystemBusinessLayer\obj\Debug\net8.0\BankingSystemBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\NexTurn\.NET\Day2\BankingSystem\BankingSystemBusinessLayer\obj\Debug\net8.0\BankingSystemBusinessLayer.AssemblyInfoInputs.cache
+E:\Works\NexTurn\.NET\Day2\BankingSystem\BankingSystemBusinessLayer\obj\Debug\net8.0\BankingSystemBusinessLayer.AssemblyInfo.cs
+E:\Works\NexTurn\.NET\Day2\BankingSystem\BankingSystemBusinessLayer\obj\Debug\net8.0\BankingSystemBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Works\NexTurn\.NET\Day2\BankingSystem\BankingSystemBusinessLayer\obj\Debug\net8.0\BankingSystemBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day2\BankingSystem\BankingSystemBusinessLayer\obj\Debug\net8.0\refint\BankingSystemBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day2\BankingSystem\BankingSystemBusinessLayer\obj\Debug\net8.0\BankingSystemBusinessLayer.pdb
+E:\Works\NexTurn\.NET\Day2\BankingSystem\BankingSystemBusinessLayer\obj\Debug\net8.0\ref\BankingSystemBusinessLayer.dll

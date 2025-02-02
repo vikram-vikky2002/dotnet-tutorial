@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareHospitalApp", "CareHospitalApp\CareHospitalApp.csproj", "{62A26893-F5CB-4D94-9F42-9F3989C83A4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareHospitalBusinessLayer", "CareHospitalBusinessLayer\CareHospitalBusinessLayer.csproj", "{9DC2276E-8E37-41D6-A0A9-48723A2E4F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62A26893-F5CB-4D94-9F42-9F3989C83A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A26893-F5CB-4D94-9F42-9F3989C83A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A26893-F5CB-4D94-9F42-9F3989C83A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A26893-F5CB-4D94-9F42-9F3989C83A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC2276E-8E37-41D6-A0A9-48723A2E4F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC2276E-8E37-41D6-A0A9-48723A2E4F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC2276E-8E37-41D6-A0A9-48723A2E4F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC2276E-8E37-41D6-A0A9-48723A2E4F63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

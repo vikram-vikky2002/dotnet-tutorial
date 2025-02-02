@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A2ZSalesConsoleApp/1.0.0": {
+        "dependencies": {
+          "A2ZSalesBusinessLayer": "1.0.0"
+        },
+        "runtime": {
+          "A2ZSalesConsoleApp.dll": {}
+        }
+      },
+      "A2ZSalesBusinessLayer/1.0.0": {
+        "runtime": {
+          "A2ZSalesBusinessLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A2ZSalesConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "A2ZSalesBusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

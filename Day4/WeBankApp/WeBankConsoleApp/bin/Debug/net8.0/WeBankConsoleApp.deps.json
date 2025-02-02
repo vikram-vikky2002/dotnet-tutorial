@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeBankConsoleApp/1.0.0": {
+        "dependencies": {
+          "WeBankBusinessLayer": "1.0.0"
+        },
+        "runtime": {
+          "WeBankConsoleApp.dll": {}
+        }
+      },
+      "WeBankBusinessLayer/1.0.0": {
+        "runtime": {
+          "WeBankBusinessLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeBankConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeBankBusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

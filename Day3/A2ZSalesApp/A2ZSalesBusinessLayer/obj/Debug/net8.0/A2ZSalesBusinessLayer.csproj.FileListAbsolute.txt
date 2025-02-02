@@ -1,0 +1,11 @@
+E:\Works\NexTurn\.NET\Day3\A2ZSalesApp\A2ZSalesBusinessLayer\bin\Debug\net8.0\A2ZSalesBusinessLayer.deps.json
+E:\Works\NexTurn\.NET\Day3\A2ZSalesApp\A2ZSalesBusinessLayer\bin\Debug\net8.0\A2ZSalesBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day3\A2ZSalesApp\A2ZSalesBusinessLayer\bin\Debug\net8.0\A2ZSalesBusinessLayer.pdb
+E:\Works\NexTurn\.NET\Day3\A2ZSalesApp\A2ZSalesBusinessLayer\obj\Debug\net8.0\A2ZSalesBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\NexTurn\.NET\Day3\A2ZSalesApp\A2ZSalesBusinessLayer\obj\Debug\net8.0\A2ZSalesBusinessLayer.AssemblyInfoInputs.cache
+E:\Works\NexTurn\.NET\Day3\A2ZSalesApp\A2ZSalesBusinessLayer\obj\Debug\net8.0\A2ZSalesBusinessLayer.AssemblyInfo.cs
+E:\Works\NexTurn\.NET\Day3\A2ZSalesApp\A2ZSalesBusinessLayer\obj\Debug\net8.0\A2ZSalesBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Works\NexTurn\.NET\Day3\A2ZSalesApp\A2ZSalesBusinessLayer\obj\Debug\net8.0\A2ZSalesBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day3\A2ZSalesApp\A2ZSalesBusinessLayer\obj\Debug\net8.0\refint\A2ZSalesBusinessLayer.dll
+E:\Works\NexTurn\.NET\Day3\A2ZSalesApp\A2ZSalesBusinessLayer\obj\Debug\net8.0\A2ZSalesBusinessLayer.pdb
+E:\Works\NexTurn\.NET\Day3\A2ZSalesApp\A2ZSalesBusinessLayer\obj\Debug\net8.0\ref\A2ZSalesBusinessLayer.dll

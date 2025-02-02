@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "QuickKartConsoleApp/1.0.0": {
+        "dependencies": {
+          "QuickKartBusinessLayer": "1.0.0"
+        },
+        "runtime": {
+          "QuickKartConsoleApp.dll": {}
+        }
+      },
+      "QuickKartBusinessLayer/1.0.0": {
+        "runtime": {
+          "QuickKartBusinessLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuickKartConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickKartBusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

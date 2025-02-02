@@ -1,0 +1,7 @@
+E:\Works\NexTurn\.NET\SampleBackend\obj\Debug\net9.0\SampleBackend.csproj.AssemblyReference.cache
+E:\Works\NexTurn\.NET\SampleBackend\obj\Debug\net9.0\SampleBackend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\NexTurn\.NET\SampleBackend\obj\Debug\net9.0\SampleBackend.AssemblyInfoInputs.cache
+E:\Works\NexTurn\.NET\SampleBackend\obj\Debug\net9.0\SampleBackend.AssemblyInfo.cs
+E:\Works\NexTurn\.NET\SampleBackend\obj\Debug\net9.0\SampleBackend.csproj.CoreCompileInputs.cache
+E:\Works\NexTurn\.NET\SampleBackend\obj\Debug\net9.0\SampleBackend.MvcApplicationPartsAssemblyInfo.cs
+E:\Works\NexTurn\.NET\SampleBackend\obj\Debug\net9.0\SampleBackend.MvcApplicationPartsAssemblyInfo.cache
