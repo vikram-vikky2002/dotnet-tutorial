@@ -1,0 +1,12 @@
+E:\Works\NexTurn\.NET\Offline Class\Day3\iTravel\iTravelBusinessLayer\bin\Debug\net8.0\iTravelBusinessLayer.deps.json
+E:\Works\NexTurn\.NET\Offline Class\Day3\iTravel\iTravelBusinessLayer\bin\Debug\net8.0\iTravelBusinessLayer.dll
+E:\Works\NexTurn\.NET\Offline Class\Day3\iTravel\iTravelBusinessLayer\bin\Debug\net8.0\iTravelBusinessLayer.pdb
+E:\Works\NexTurn\.NET\Offline Class\Day3\iTravel\iTravelBusinessLayer\obj\Debug\net8.0\iTravelBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\NexTurn\.NET\Offline Class\Day3\iTravel\iTravelBusinessLayer\obj\Debug\net8.0\iTravelBusinessLayer.AssemblyInfoInputs.cache
+E:\Works\NexTurn\.NET\Offline Class\Day3\iTravel\iTravelBusinessLayer\obj\Debug\net8.0\iTravelBusinessLayer.AssemblyInfo.cs
+E:\Works\NexTurn\.NET\Offline Class\Day3\iTravel\iTravelBusinessLayer\obj\Debug\net8.0\iTravelBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Works\NexTurn\.NET\Offline Class\Day3\iTravel\iTravelBusinessLayer\obj\Debug\net8.0\iTravelBusinessLayer.sourcelink.json
+E:\Works\NexTurn\.NET\Offline Class\Day3\iTravel\iTravelBusinessLayer\obj\Debug\net8.0\iTravelBusinessLayer.dll
+E:\Works\NexTurn\.NET\Offline Class\Day3\iTravel\iTravelBusinessLayer\obj\Debug\net8.0\refint\iTravelBusinessLayer.dll
+E:\Works\NexTurn\.NET\Offline Class\Day3\iTravel\iTravelBusinessLayer\obj\Debug\net8.0\iTravelBusinessLayer.pdb
+E:\Works\NexTurn\.NET\Offline Class\Day3\iTravel\iTravelBusinessLayer\obj\Debug\net8.0\ref\iTravelBusinessLayer.dll

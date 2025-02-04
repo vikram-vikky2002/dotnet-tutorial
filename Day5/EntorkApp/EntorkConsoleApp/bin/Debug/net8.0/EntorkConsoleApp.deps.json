@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EntorkConsoleApp/1.0.0": {
+        "dependencies": {
+          "EntorkBusinessLayer": "1.0.0"
+        },
+        "runtime": {
+          "EntorkConsoleApp.dll": {}
+        }
+      },
+      "EntorkBusinessLayer/1.0.0": {
+        "runtime": {
+          "EntorkBusinessLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntorkConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntorkBusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

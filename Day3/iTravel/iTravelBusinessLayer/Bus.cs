@@ -7,7 +7,7 @@
             base.vehicleId = "B" + vehicleId;
         }
 
-        public double CalculateTotalFare()
+        public override double CalculateTotalFare()
         {
             double totalPrice = base.CalculateTotalFare();
             if (totalPrice > 1000)

@@ -9,7 +9,7 @@ namespace WeBankBusinessLayer
 {
     public class Transaction
     {
-        public string TransactionId { get; set; }
+        private string TransactionId { get; set; }
         public DateTime TransactionDate { get; set; }
         public double Amount { get; set; }
         public string Type { get; set; }

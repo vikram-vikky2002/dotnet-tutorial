@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75B4A052-C625-4C12-9F70-B146CF2709F7}|EntorkBusinessLayer\\EntorkBusinessLayer.csproj|e:\\works\\nexturn\\.net\\offline class\\day5\\entorkapp\\entorkbusinesslayer\\billingagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B4A052-C625-4C12-9F70-B146CF2709F7}|EntorkBusinessLayer\\EntorkBusinessLayer.csproj|solutionrelative:entorkbusinesslayer\\billingagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B4A052-C625-4C12-9F70-B146CF2709F7}|EntorkBusinessLayer\\EntorkBusinessLayer.csproj|e:\\works\\nexturn\\.net\\offline class\\day5\\entorkapp\\entorkbusinesslayer\\meterreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B4A052-C625-4C12-9F70-B146CF2709F7}|EntorkBusinessLayer\\EntorkBusinessLayer.csproj|solutionrelative:entorkbusinesslayer\\meterreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B4A052-C625-4C12-9F70-B146CF2709F7}|EntorkBusinessLayer\\EntorkBusinessLayer.csproj|e:\\works\\nexturn\\.net\\offline class\\day5\\entorkapp\\entorkbusinesslayer\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B4A052-C625-4C12-9F70-B146CF2709F7}|EntorkBusinessLayer\\EntorkBusinessLayer.csproj|solutionrelative:entorkbusinesslayer\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39202C7E-FE32-456C-A2FB-BD40DD19A561}|EntorkConsoleApp\\EntorkConsoleApp.csproj|e:\\works\\nexturn\\.net\\offline class\\day5\\entorkapp\\entorkconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39202C7E-FE32-456C-A2FB-BD40DD19A561}|EntorkConsoleApp\\EntorkConsoleApp.csproj|solutionrelative:entorkconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B4A052-C625-4C12-9F70-B146CF2709F7}|EntorkBusinessLayer\\EntorkBusinessLayer.csproj|e:\\works\\nexturn\\.net\\offline class\\day5\\entorkapp\\entorkbusinesslayer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B4A052-C625-4C12-9F70-B146CF2709F7}|EntorkBusinessLayer\\EntorkBusinessLayer.csproj|solutionrelative:entorkbusinesslayer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B4A052-C625-4C12-9F70-B146CF2709F7}|EntorkBusinessLayer\\EntorkBusinessLayer.csproj|e:\\works\\nexturn\\.net\\offline class\\day5\\entorkapp\\entorkbusinesslayer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B4A052-C625-4C12-9F70-B146CF2709F7}|EntorkBusinessLayer\\EntorkBusinessLayer.csproj|solutionrelative:entorkbusinesslayer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B4A052-C625-4C12-9F70-B146CF2709F7}|EntorkBusinessLayer\\EntorkBusinessLayer.csproj|e:\\works\\nexturn\\.net\\offline class\\day5\\entorkapp\\entorkbusinesslayer\\meterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B4A052-C625-4C12-9F70-B146CF2709F7}|EntorkBusinessLayer\\EntorkBusinessLayer.csproj|solutionrelative:entorkbusinesslayer\\meterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\EntorkBusinessLayer\\Bill.cs",
+              "RelativeDocumentMoniker": "EntorkBusinessLayer\\Bill.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\EntorkBusinessLayer\\Bill.cs",
+              "RelativeToolTip": "EntorkBusinessLayer\\Bill.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwDoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:04:51.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeterReading.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\EntorkBusinessLayer\\MeterReading.cs",
+              "RelativeDocumentMoniker": "EntorkBusinessLayer\\MeterReading.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\EntorkBusinessLayer\\MeterReading.cs",
+              "RelativeToolTip": "EntorkBusinessLayer\\MeterReading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:44:55.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillingAgent.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\EntorkBusinessLayer\\BillingAgent.cs",
+              "RelativeDocumentMoniker": "EntorkBusinessLayer\\BillingAgent.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\EntorkBusinessLayer\\BillingAgent.cs",
+              "RelativeToolTip": "EntorkBusinessLayer\\BillingAgent.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:01:00.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeterReader.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\EntorkBusinessLayer\\MeterReader.cs",
+              "RelativeDocumentMoniker": "EntorkBusinessLayer\\MeterReader.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\EntorkBusinessLayer\\MeterReader.cs",
+              "RelativeToolTip": "EntorkBusinessLayer\\MeterReader.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA+wBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:57:47.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\EntorkBusinessLayer\\Employee.cs",
+              "RelativeDocumentMoniker": "EntorkBusinessLayer\\Employee.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\EntorkBusinessLayer\\Employee.cs",
+              "RelativeToolTip": "EntorkBusinessLayer\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:54:02.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\EntorkBusinessLayer\\Customer.cs",
+              "RelativeDocumentMoniker": "EntorkBusinessLayer\\Customer.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\EntorkBusinessLayer\\Customer.cs",
+              "RelativeToolTip": "EntorkBusinessLayer\\Customer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwCoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:49:10.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\EntorkConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "EntorkConsoleApp\\Program.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day5\\EntorkApp\\EntorkConsoleApp\\Program.cs",
+              "RelativeToolTip": "EntorkConsoleApp\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:44:36.723Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

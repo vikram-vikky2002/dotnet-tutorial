@@ -9,3 +9,15 @@ E:\Works\NexTurn\.NET\Day4\WeBankApp\WeBankBusinessLayer\obj\Debug\net8.0\WeBank
 E:\Works\NexTurn\.NET\Day4\WeBankApp\WeBankBusinessLayer\obj\Debug\net8.0\refint\WeBankBusinessLayer.dll
 E:\Works\NexTurn\.NET\Day4\WeBankApp\WeBankBusinessLayer\obj\Debug\net8.0\WeBankBusinessLayer.pdb
 E:\Works\NexTurn\.NET\Day4\WeBankApp\WeBankBusinessLayer\obj\Debug\net8.0\ref\WeBankBusinessLayer.dll
+E:\Works\NexTurn\.NET\Offline Class\Day4\WeBankApp\WeBankBusinessLayer\bin\Debug\net8.0\WeBankBusinessLayer.deps.json
+E:\Works\NexTurn\.NET\Offline Class\Day4\WeBankApp\WeBankBusinessLayer\bin\Debug\net8.0\WeBankBusinessLayer.dll
+E:\Works\NexTurn\.NET\Offline Class\Day4\WeBankApp\WeBankBusinessLayer\bin\Debug\net8.0\WeBankBusinessLayer.pdb
+E:\Works\NexTurn\.NET\Offline Class\Day4\WeBankApp\WeBankBusinessLayer\obj\Debug\net8.0\WeBankBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\NexTurn\.NET\Offline Class\Day4\WeBankApp\WeBankBusinessLayer\obj\Debug\net8.0\WeBankBusinessLayer.AssemblyInfoInputs.cache
+E:\Works\NexTurn\.NET\Offline Class\Day4\WeBankApp\WeBankBusinessLayer\obj\Debug\net8.0\WeBankBusinessLayer.AssemblyInfo.cs
+E:\Works\NexTurn\.NET\Offline Class\Day4\WeBankApp\WeBankBusinessLayer\obj\Debug\net8.0\WeBankBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Works\NexTurn\.NET\Offline Class\Day4\WeBankApp\WeBankBusinessLayer\obj\Debug\net8.0\WeBankBusinessLayer.sourcelink.json
+E:\Works\NexTurn\.NET\Offline Class\Day4\WeBankApp\WeBankBusinessLayer\obj\Debug\net8.0\WeBankBusinessLayer.dll
+E:\Works\NexTurn\.NET\Offline Class\Day4\WeBankApp\WeBankBusinessLayer\obj\Debug\net8.0\refint\WeBankBusinessLayer.dll
+E:\Works\NexTurn\.NET\Offline Class\Day4\WeBankApp\WeBankBusinessLayer\obj\Debug\net8.0\WeBankBusinessLayer.pdb
+E:\Works\NexTurn\.NET\Offline Class\Day4\WeBankApp\WeBankBusinessLayer\obj\Debug\net8.0\ref\WeBankBusinessLayer.dll

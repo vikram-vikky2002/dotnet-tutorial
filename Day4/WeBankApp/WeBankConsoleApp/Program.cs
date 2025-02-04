@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿using System.Collections;
+using System.Reflection;
 using WeBankBusinessLayer;
 
 namespace WeBankConsoleApp
@@ -35,6 +36,43 @@ namespace WeBankConsoleApp
             Console.WriteLine("Transaction Two");
             string messageTwo = transactionTwo.ProcessTransaction(savingsAccountHolder, banker, 3000, "Credit");
             Console.WriteLine(messageTwo);
+
+            #region Array Practice
+
+            //int[] intArray = { 10, 20, 30, 40 };
+            //for (int i = 0; i < intArray.Length; i++)
+            //{
+            //    Console.WriteLine(intArray[i]);
+            //}
+
+            //int[][] jaggedArray = new int[2][];
+            //jaggedArray[0] = [1, 2, 3, 4];
+            //jaggedArray[1] = [1, 2, 3, 4];
+            //for (int j = 0; j < jaggedArray.Length; j++)
+            //{
+            //    for (int i = 0; i < jaggedArray[j].Length; i++)
+            //    {
+            //        Console.WriteLine(jaggedArray[j][i]);
+            //    }
+            //}
+
+            //ArrayList arrayList = new ArrayList();
+            //arrayList.Add(20);
+            //arrayList.Add("30");
+            //arrayList.Add(arrayList);
+
+            //Console.WriteLine(arrayList[0]);
+            //Console.WriteLine(arrayList[1]);
+            //Console.WriteLine(arrayList[2]);
+
+            //for (int k = 0; k < arrayList[2].Length; k++)
+            //{
+            //    Console.WriteLine(intArray[i]);
+            //}
+
+            #endregion
+
+
         }
     }
 }

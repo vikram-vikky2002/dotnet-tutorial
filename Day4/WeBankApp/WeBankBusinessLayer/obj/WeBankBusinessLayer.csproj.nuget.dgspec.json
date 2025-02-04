@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Works\\NexTurn\\.NET\\Day4\\WeBankApp\\WeBankBusinessLayer\\WeBankBusinessLayer.csproj": {}
+    "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day4\\WeBankApp\\WeBankBusinessLayer\\WeBankBusinessLayer.csproj": {}
   },
   "projects": {
-    "E:\\Works\\NexTurn\\.NET\\Day4\\WeBankApp\\WeBankBusinessLayer\\WeBankBusinessLayer.csproj": {
+    "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day4\\WeBankApp\\WeBankBusinessLayer\\WeBankBusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Works\\NexTurn\\.NET\\Day4\\WeBankApp\\WeBankBusinessLayer\\WeBankBusinessLayer.csproj",
+        "projectUniqueName": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day4\\WeBankApp\\WeBankBusinessLayer\\WeBankBusinessLayer.csproj",
         "projectName": "WeBankBusinessLayer",
-        "projectPath": "E:\\Works\\NexTurn\\.NET\\Day4\\WeBankApp\\WeBankBusinessLayer\\WeBankBusinessLayer.csproj",
+        "projectPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day4\\WeBankApp\\WeBankBusinessLayer\\WeBankBusinessLayer.csproj",
         "packagesPath": "C:\\Users\\mamun\\.nuget\\packages\\",
-        "outputPath": "E:\\Works\\NexTurn\\.NET\\Day4\\WeBankApp\\WeBankBusinessLayer\\obj\\",
+        "outputPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day4\\WeBankApp\\WeBankBusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
