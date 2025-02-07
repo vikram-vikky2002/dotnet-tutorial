@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartConsoleApp\\QuickKartConsoleApp.csproj": {}
+    "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartConsoleApp\\QuickKartConsoleApp.csproj": {}
   },
   "projects": {
-    "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj": {
+    "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj",
+        "projectUniqueName": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj",
         "projectName": "QuickKartBusinessLayer",
-        "projectPath": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj",
+        "projectPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj",
         "packagesPath": "C:\\Users\\mamun\\.nuget\\packages\\",
-        "outputPath": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\obj\\",
+        "outputPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartConsoleApp\\QuickKartConsoleApp.csproj": {
+    "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartConsoleApp\\QuickKartConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartConsoleApp\\QuickKartConsoleApp.csproj",
+        "projectUniqueName": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartConsoleApp\\QuickKartConsoleApp.csproj",
         "projectName": "QuickKartConsoleApp",
-        "projectPath": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartConsoleApp\\QuickKartConsoleApp.csproj",
+        "projectPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartConsoleApp\\QuickKartConsoleApp.csproj",
         "packagesPath": "C:\\Users\\mamun\\.nuget\\packages\\",
-        "outputPath": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartConsoleApp\\obj\\",
+        "outputPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj": {
-                "projectPath": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj"
+              "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj": {
+                "projectPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj"
               }
             }
           }

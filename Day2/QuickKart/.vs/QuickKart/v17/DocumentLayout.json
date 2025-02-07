@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\",
+  "WorkspaceRootPath": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|e:\\works\\nexturn\\.net\\day2\\quickkart\\quickkartbusinesslayer\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|e:\\works\\nexturn\\.net\\offline class\\day2\\quickkart\\quickkartbusinesslayer\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|solutionrelative:quickkartbusinesslayer\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|e:\\works\\nexturn\\.net\\day2\\quickkart\\quickkartbusinesslayer\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|e:\\works\\nexturn\\.net\\offline class\\day2\\quickkart\\quickkartbusinesslayer\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|solutionrelative:quickkartbusinesslayer\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|e:\\works\\nexturn\\.net\\day2\\quickkart\\quickkartbusinesslayer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|e:\\works\\nexturn\\.net\\offline class\\day2\\quickkart\\quickkartbusinesslayer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|solutionrelative:quickkartbusinesslayer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|e:\\works\\nexturn\\.net\\day2\\quickkart\\quickkartbusinesslayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|e:\\works\\nexturn\\.net\\offline class\\day2\\quickkart\\quickkartbusinesslayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|solutionrelative:quickkartbusinesslayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|e:\\works\\nexturn\\.net\\day2\\quickkart\\quickkartbusinesslayer\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|e:\\works\\nexturn\\.net\\offline class\\day2\\quickkart\\quickkartbusinesslayer\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|solutionrelative:quickkartbusinesslayer\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|e:\\works\\nexturn\\.net\\day2\\quickkart\\quickkartbusinesslayer\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|e:\\works\\nexturn\\.net\\offline class\\day2\\quickkart\\quickkartbusinesslayer\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EA0AC1C-1FA8-4684-82F2-CD62C852B288}|QuickKartBusinessLayer\\QuickKartBusinessLayer.csproj|solutionrelative:quickkartbusinesslayer\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EE94EEF-59A8-4FD7-B86F-11E6A7DBE69F}|QuickKartConsoleApp\\QuickKartConsoleApp.csproj|e:\\works\\nexturn\\.net\\day2\\quickkart\\quickkartconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EE94EEF-59A8-4FD7-B86F-11E6A7DBE69F}|QuickKartConsoleApp\\QuickKartConsoleApp.csproj|e:\\works\\nexturn\\.net\\offline class\\day2\\quickkart\\quickkartconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EE94EEF-59A8-4FD7-B86F-11E6A7DBE69F}|QuickKartConsoleApp\\QuickKartConsoleApp.csproj|solutionrelative:quickkartconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,76 +44,71 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ProductInventory.cs",
-              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\ProductInventory.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\ProductInventory.cs",
               "RelativeDocumentMoniker": "QuickKartBusinessLayer\\ProductInventory.cs",
-              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\ProductInventory.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\ProductInventory.cs",
               "RelativeToolTip": "QuickKartBusinessLayer\\ProductInventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T10:00:43.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T10:00:43.795Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Category.cs",
-              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\Category.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\Category.cs",
               "RelativeDocumentMoniker": "QuickKartBusinessLayer\\Category.cs",
-              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\Category.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\Category.cs",
               "RelativeToolTip": "QuickKartBusinessLayer\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T09:56:58.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T09:56:58.93Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\Product.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\Product.cs",
               "RelativeDocumentMoniker": "QuickKartBusinessLayer\\Product.cs",
-              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\Product.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\Product.cs",
               "RelativeToolTip": "QuickKartBusinessLayer\\Product.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T09:52:29.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T09:52:29.929Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Customer.cs",
-              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\Customer.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\Customer.cs",
               "RelativeDocumentMoniker": "QuickKartBusinessLayer\\Customer.cs",
-              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\Customer.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\Customer.cs",
               "RelativeToolTip": "QuickKartBusinessLayer\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T09:34:25.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T09:34:25.076Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Seller.cs",
-              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\Seller.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\Seller.cs",
               "RelativeDocumentMoniker": "QuickKartBusinessLayer\\Seller.cs",
-              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\Seller.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\Seller.cs",
               "RelativeToolTip": "QuickKartBusinessLayer\\Seller.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T09:50:31.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T09:50:31.545Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Purchase.cs",
-              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\Purchase.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\Purchase.cs",
               "RelativeDocumentMoniker": "QuickKartBusinessLayer\\Purchase.cs",
-              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartBusinessLayer\\Purchase.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartBusinessLayer\\Purchase.cs",
               "RelativeToolTip": "QuickKartBusinessLayer\\Purchase.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T09:45:49.99Z",
               "EditorCaption": ""
@@ -122,14 +117,13 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartConsoleApp\\Program.cs",
+              "DocumentMoniker": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "QuickKartConsoleApp\\Program.cs",
-              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Day2\\QuickKart\\QuickKartConsoleApp\\Program.cs",
+              "ToolTip": "E:\\Works\\NexTurn\\.NET\\Offline Class\\Day2\\QuickKart\\QuickKartConsoleApp\\Program.cs",
               "RelativeToolTip": "QuickKartConsoleApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T09:33:56.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T09:33:56.041Z"
             }
           ]
         }
